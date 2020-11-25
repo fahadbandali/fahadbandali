@@ -2,7 +2,7 @@
 
 My name is Fahad Bandali and I am a student at McMaster (incoming grad '22).
 - 🌱 currently learning about web development and design
-- 🔭 getting familar with React, Node, Next/Gasby/Express, Django and Databases
+- 🔭 getting familar with React, Node, Express, Next/Gatsby, Django and Databases
 - 👀 looking for opportunities to build something new or join a team 
 - 📚 interested in human-computer-interaction in education and medtech
 - 🧗🏾‍♂️ Runner, Baller, Team Player and a Go-Getter 
