@@ -1,11 +1,4 @@
-### Welcome 👋
-
-My name is Fahad Bandali and I am a student at McMaster (incoming grad '22).
-- 🌱 currently learning about web development and design
-- 🔭 getting familar with React, Node, Express, Next/Gatsby, Django and Databases
-- 👀 looking for opportunities to build something new or join a team 
-- 📚 interested in human-computer-interaction in education and medtech
-- 🧗🏾‍♂️ Runner, Baller, Team Player and a Go-Getter 
+### Whats Up ✌🏽
 <!--
 **fahadbandali/fahadbandali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
