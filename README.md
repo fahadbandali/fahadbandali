@@ -1,3 +1,4 @@
+im a product builder working on creating random tools to help myself or others
 <!-- ### Whats Up ✌🏽 -->
 <!--
 **fahadbandali/fahadbandali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
