@@ -1,6 +1,6 @@
-im a product builder working on creating random tools to help myself or others
+im a product builder working on creating intentional tools to help myself or others
 
-usual tools: aws, react, angular, typescript, python and a dash of java
+usual tools: aws, react (vanilla and nextjs), angular, typescript, python and a dash of java
 <!-- ### Whats Up ✌🏽 -->
 <!--
 **fahadbandali/fahadbandali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
